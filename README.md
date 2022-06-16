@@ -5,6 +5,7 @@
 
 # 大聪明
 https://github.com/DaxiaSec/SXF_aTrust_sandbox_bypass/issues/10
+https://github.com/DaxiaSec/SXF_aTrust_sandbox_bypass/issues/12
 
 # 一、功能介绍
 * 环境：鹏程众测
