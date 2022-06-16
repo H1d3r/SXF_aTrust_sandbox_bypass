@@ -1,4 +1,4 @@
-# [正式申明 <-- 点击此处](https://github.com/DaxiaSec/officalSM)
+# [正式声明 <-- 点击此处](https://github.com/DaxiaSec/officalSM)
 
 
 # SXF_aTrust_sandbox_bypass
