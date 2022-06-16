@@ -3,7 +3,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/SXF_aTrust_sandbox_bypass/count.svg)
 
-待会儿会开一贴详细介绍经过。
+# [正式申明 <-- 点击此处](https://github.com/DaxiaSec/officalSM)
 
 # 耻辱柱
 @hluwa https://github.com/DaxiaSec/SXF_aTrust_sandbox_bypass/issues/10
